@@ -1,6 +1,6 @@
 # DynamoDB extensions for Yii2
 
-This is a DynamoDB extension for Yii2
+This is a DynamoDB extension for Yii2.
 
 
 [![Latest Stable Version](https://poser.pugx.org/urbanindo/yii2-dynamodb/v/stable.svg)](https://packagist.org/packages/urbanindo/yii2-dynamodb)
